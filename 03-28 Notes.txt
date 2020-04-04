@@ -1,0 +1,23 @@
+adjust (7)  look at a month; don't need timestamp
+top 50 stocks
+calculating the pip score
+
+Chapter 5 in Momentum
+Use 2 models: Linear Regression & Deep Learning
+
+Run short-term and mid-term momentum analysis to create portfolio 
+of predict returns.
+Compare models between both terms in order to see which is better.
+
+Pull relevant stock data from SP500 universe
+Run Momentum Code, obtain stocks to buy
+***FIP Score? How is this used? Is it necessary in our analysis?***
+Plug-in stock data into ML model
+Predict Outcomes
+
+- Shot: 1 month look back period
+	Holding Period: 1 month
+	Number of Stocks
+- Mid: 12 month look back period 
+	Holding Period: 1 month
+	Number of Stocks
